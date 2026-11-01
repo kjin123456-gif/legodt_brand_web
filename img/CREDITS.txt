@@ -1,0 +1,13 @@
+Image credits - LEGODT unofficial brand page
+All photos are from Unsplash and used under the Unsplash License
+(https://unsplash.com/license): free to use, no permission or attribution required
+(attribution given anyway). They are mood photos, not LEGODT product photos.
+
+scene_cafe.jpg   - Tavis Beck (@tavis_beck)          - https://unsplash.com/photos/mAAcR1LR0mo
+scene_office.jpg - Jess Bailey (@jessbaileydesigns)  - https://unsplash.com/photos/yfAIiIvFkj0
+scene_run.jpg    - Tikkho Maciel (@tikkho)           - https://unsplash.com/photos/2-_WkjmC8x4
+scene_hike.jpg   - Samantha Hawley (@hennepincanyonphotography) - https://unsplash.com/photos/MrZ7gW5z8sc
+
+Tumbler, module and color-picker visuals are original inline SVG/CSS illustrations
+made for this page. No official LEGODT logo or product image is used; the wordmark is plain text.
+Downloaded 2026-11-01 (cropped 4:5, 1200x1500, via images.unsplash.com).
