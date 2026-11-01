@@ -4,8 +4,8 @@ A one-page, playful pastel brand introduction for the Korean drinkware/lifestyle
 This is an **unofficial** page: it is not the official LEGODT site and uses no official logo or product photos (text wordmark + original SVG illustrations only).
 
 - Built: 2026-11-01 · Stack: HTML5 + CSS3 + vanilla JS (no build step)
-- Repository: (added after deploy)
-- Live site: (added after deploy)
+- Repository: https://github.com/kjin123456-gif/legodt_brand_web
+- Live site: https://kjin123456-gif.github.io/legodt_brand_web/
 
 ## Sources
 - Content: `output/research/brand/legodt/legodt_research.md` (verified facts only; prices as of 2026-11-01; keep/cold hours = brand's own test figures)
